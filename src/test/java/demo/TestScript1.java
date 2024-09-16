@@ -6,5 +6,6 @@ public class TestScript1 {
 		
 		System.out.println("Hello");
 		//bye
+		//hi
 	}
 }
